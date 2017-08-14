@@ -1,2 +1,2 @@
-# CS426pizzadelivery
-Game project
+# XV6 Project
+Testing, Solutions and playing
